@@ -1,0 +1,17 @@
+/*
+ Theme Name:   GK-Portfolio Child
+ Theme URI:    https://www.gavick.com/wordpress-themes/portfolio
+ Description:  GK-Portfolio Child - GK-Portfolio
+ Author:       Amy Jennings
+ Author URI:   http://amyjenningsdev.com
+ Template:     gk-portfolio
+ Version:      1.5.3
+ Tags:         grid-layout, footer-widgets, blog, photography, portfolio, one-column, custom-background, custom-colors, custom-menu, editor-style, featured-images, post-formats, sticky-post, threaded-comments, translation-ready
+ Text Domain:  gk-portfolio-child
+*/
+
+@import url("../gk-portfolio/style.css");
+
+body {
+	background: tomato;
+}
